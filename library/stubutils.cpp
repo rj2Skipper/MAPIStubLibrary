@@ -1,5 +1,6 @@
 #include <functional>
 #include <vector>
+#include <iterator>
 #include <string>
 #include <algorithm>
 #include <MAPIX.h>
